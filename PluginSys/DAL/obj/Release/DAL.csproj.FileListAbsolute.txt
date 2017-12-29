@@ -1,0 +1,90 @@
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DAL\obj\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DAL\obj\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DAL\obj\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DAL\obj\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DAL\obj\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\PluginSys.DAL.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DAL\obj\Release\PluginSys.DAL.dll

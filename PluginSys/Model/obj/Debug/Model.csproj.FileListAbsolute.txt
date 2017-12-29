@@ -1,0 +1,79 @@
+E:\VS2012Project\PluginSys\Model\bin\Debug\PluginSys.Model.dll
+E:\VS2012Project\PluginSys\Model\bin\Debug\PluginSys.Model.pdb
+E:\VS2012Project\PluginSys\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\VS2012Project\PluginSys\Model\obj\Debug\PluginSys.Model.dll
+E:\VS2012Project\PluginSys\Model\obj\Debug\PluginSys.Model.pdb
+E:\VS2012Project\PluginSys 注册是有部门名\Model\bin\Debug\PluginSys.Model.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Model\bin\Debug\PluginSys.Model.pdb
+E:\VS2012Project\PluginSys 注册是有部门名\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\VS2012Project\PluginSys 注册是有部门名\Model\obj\Debug\PluginSys.Model.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.15\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.15\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.15\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.15\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.15\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.17\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.17\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.17\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.17\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.17\PluginSys 2017.11.17\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Model\bin\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Model\bin\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Model\obj\Debug\PluginSys.Model.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Model\obj\Debug\PluginSys.Model.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

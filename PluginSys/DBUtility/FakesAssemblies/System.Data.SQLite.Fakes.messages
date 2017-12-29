@@ -1,0 +1,84 @@
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConnectionPool 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConnection 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteDataAdapter 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConvert 生成存根: 类型没有系列可见的构造函数。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.TypeAffinity 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteDateFormats 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteJournalModeEnum 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteType 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteTypeNames 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteTransaction 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteKeyReader 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.FunctionType 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCallback 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteFinalCallback 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCollation 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.CollationTypeEnum 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.CollationEncodingEnum 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.CollationSequence 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteEnlistment 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteDataReader 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteParameter 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteMetaDataCollectionNames 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCommand 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteBase 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.ISQLiteSchemaExtensions 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteOpenFlagsEnum 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConnectionStringBuilder 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLite3 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteParameterCollection 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLite3_UTF16 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteFactory 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.UnsafeNativeMethods 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConnectionHandle 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteStatementHandle 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SR 生成存根: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteException 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteErrorCode 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SynchronizationModes 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteUpdateCallback 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCommitCallback 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteRollbackCallback 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCommitHandler 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteUpdateEventHandler 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.UpdateEventType 生成存根: 类型是一个值类型。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.UpdateEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.CommitEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteStatement 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteFunctionAttribute 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCommandBuilder 生成存根: 类型已密封。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 <PrivateImplementationDetails>{9CC2B357-5AA3-448C-9488-F6715166885E} 生成存根: 类型不受支持，因为存在于内部限制。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConnectionPool 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.TypeAffinity 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteDateFormats 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteJournalModeEnum 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteType 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteTypeNames 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteKeyReader 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteFunction+AggregateData 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.FunctionType 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCallback 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteFinalCallback 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCollation 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.CollationTypeEnum 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.CollationEncodingEnum 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteEnlistment 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteBase 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.ISQLiteSchemaExtensions 生成填充码: 类型是一个接口。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteOpenFlagsEnum 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLite3 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLite3_UTF16 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.UnsafeNativeMethods 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteConnectionHandle 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteStatementHandle 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SR 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteErrorCode 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SynchronizationModes 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteUpdateCallback 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCommitCallback 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteRollbackCallback 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteCommitHandler 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteUpdateEventHandler 生成填充码: 类型是一个委托。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.UpdateEventType 生成填充码: 类型是一个枚举。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 System.Data.SQLite.SQLiteStatement 生成填充码: 类型对 exported or assembly(System.Data.SQLite.Fakes) 不可见。
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\Fakes\System.Data.SQLite.fakes : warning : 无法为 <PrivateImplementationDetails>{9CC2B357-5AA3-448C-9488-F6715166885E} 生成填充码: 类型不受支持，因为存在于内部限制。

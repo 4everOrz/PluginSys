@@ -1,0 +1,140 @@
+E:\VS2012Project\PluginSys\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+E:\VS2012Project\PluginSys\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+E:\VS2012Project\PluginSys\DBUtility\bin\Debug\IBatisNet.Common.dll
+E:\VS2012Project\PluginSys\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+E:\VS2012Project\PluginSys\DBUtility\bin\Debug\MySql.Data.dll
+E:\VS2012Project\PluginSys\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\VS2012Project\PluginSys\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\VS2012Project\PluginSys\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+E:\VS2012Project\PluginSys\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\bin\Debug\IBatisNet.Common.dll
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\bin\Debug\MySql.Data.dll
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+E:\VS2012Project\PluginSys 注册是有部门名\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\bin\Debug\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\bin\Debug\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30 - 副本\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\bin\Debug\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\bin\Debug\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\bin\Debug\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\bin\Debug\System.Data.SQLite.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\obj\Debug\DBUtility.csprojFakesResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\DBUtility\obj\Debug\DBUtility.csprojFakesResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\obj\Debug\DBUtility.csprojFakesResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\obj\Debug\DBUtility.csprojFakesResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\DBUtility\obj\Debug\DBUtility.csprojFakesResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\DBUtility\obj\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\PluginSys.DBUtility.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\obj\Debug\DBUtility.csprojFakesResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\obj\Debug\PluginSys.DBUtility.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\DBUtility\obj\Debug\PluginSys.DBUtility.pdb

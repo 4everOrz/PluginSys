@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\软件发布平台\Release" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/LtpPageControl.dll" publishTime="03/20/2013 11:33:00" />
+    <file relUrl="bin/IBatisNet.Common.dll" publishTime="03/20/2013 11:32:56" />
+    <file relUrl="bin/System.Data.SQLite.dll" publishTime="03/20/2013 11:33:06" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="03/20/2013 11:33:00" />
+    <file relUrl="Global.asax" publishTime="10/18/2017 19:03:02" />
+    <file relUrl="bin/PluginSys.Web.dll" publishTime="10/24/2017 19:47:25" />
+    <file relUrl="bin/Microsoft.Web.UI.WebControls.dll" publishTime="03/20/2013 11:32:58" />
+    <file relUrl="jquery.min.js" publishTime="10/24/2017 09:14:32" />
+    <file relUrl="bin/PluginSys.DAL.pdb" publishTime="10/24/2017 19:21:33" />
+    <file relUrl="bin/PluginSys.Common.pdb" publishTime="10/24/2017 19:21:33" />
+    <file relUrl="bin/PluginSys.DBUtility.pdb" publishTime="10/24/2017 10:59:22" />
+    <file relUrl="bin/IBatisNet.DataMapper.dll" publishTime="03/20/2013 11:33:04" />
+    <file relUrl="bin/PluginSys.Web.pdb" publishTime="10/24/2017 19:47:25" />
+    <file relUrl="bin/COM.Excel.dll" publishTime="03/20/2013 11:32:56" />
+    <file relUrl="bin/PluginSys.DBUtility.dll" publishTime="10/24/2017 10:59:22" />
+    <file relUrl="bin/PluginSys.BLL.pdb" publishTime="10/24/2017 19:47:25" />
+    <file relUrl="default.aspx" publishTime="10/24/2017 19:00:38" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="06/18/2017 13:56:36" />
+    <file relUrl="bin/PluginSys.Model.pdb" publishTime="10/24/2017 16:54:38" />
+    <file relUrl="bin/Microsoft.Vbe.Interop.dll" publishTime="10/10/2007 09:48:54" />
+    <file relUrl="bin/PluginSys.BLL.dll" publishTime="10/24/2017 19:47:25" />
+    <file relUrl="bin/PluginSys.DAL.dll" publishTime="10/24/2017 19:21:34" />
+    <file relUrl="bin/OpenSmtp.dll" publishTime="03/20/2013 11:33:04" />
+    <file relUrl="bin/log4net.dll" publishTime="04/01/2013 10:52:13" />
+    <file relUrl="Web.config" publishTime="10/24/2017 10:59:19" />
+    <file relUrl="bin/LTP.Accounts.dll" publishTime="03/20/2013 11:33:00" />
+    <file relUrl="bin/office.dll" publishTime="10/10/2007 09:48:54" />
+    <file relUrl="bin/Excel.dll" publishTime="03/20/2013 11:32:58" />
+    <file relUrl="Handler.ashx" publishTime="10/19/2017 15:06:56" />
+    <file relUrl="bin/PluginSys.Common.dll" publishTime="10/24/2017 19:21:33" />
+    <file relUrl="bin/PluginSys.Model.dll" publishTime="10/24/2017 16:54:39" />
+  </publishProfile>
+</publishData>

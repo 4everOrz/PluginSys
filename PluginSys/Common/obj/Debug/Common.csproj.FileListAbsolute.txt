@@ -1,0 +1,174 @@
+E:\VS2012Project\PluginSys\Common\bin\Debug\PluginSys.Common.dll
+E:\VS2012Project\PluginSys\Common\bin\Debug\PluginSys.Common.pdb
+E:\VS2012Project\PluginSys\Common\bin\Debug\COM.Excel.dll
+E:\VS2012Project\PluginSys\Common\bin\Debug\Excel.dll
+E:\VS2012Project\PluginSys\Common\bin\Debug\log4net.dll
+E:\VS2012Project\PluginSys\Common\bin\Debug\Newtonsoft.Json.dll
+E:\VS2012Project\PluginSys\Common\bin\Debug\OpenSmtp.dll
+E:\VS2012Project\PluginSys\Common\bin\Debug\OWC10Chart.dll
+E:\VS2012Project\PluginSys\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\VS2012Project\PluginSys\Common\obj\Debug\PluginSys.Common.dll
+E:\VS2012Project\PluginSys\Common\obj\Debug\PluginSys.Common.pdb
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\PluginSys.Common.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\PluginSys.Common.pdb
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\COM.Excel.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\Excel.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\log4net.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\Newtonsoft.Json.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\OpenSmtp.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\bin\Debug\OWC10Chart.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\VS2012Project\PluginSys 注册是有部门名\Common\obj\Debug\PluginSys.Common.dll
+E:\VS2012Project\PluginSys 注册是有部门名\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys +部门注册 2017.10.30\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\COM.Excel.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\Excel.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\log4net.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\OpenSmtp.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\bin\Debug\OWC10Chart.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\yyh\Desktop\PluginSys +用户注册加校验 2017.11.1\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.12\PluginSys 2017.11.12\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.14审批待完成\PluginSys 2017.11.14\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15审批OK\PluginSys 2017.11.15\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.15邮件待完成\PluginSys 2017.11.15\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.20 待办OK\PluginSys 2017.11.20\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.23\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.11.29\PluginSys 2017.11.23\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\PluginSys 2017.12.2\PluginSys 2017.12.2\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.6\PluginSys 2017.12.6\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.20\PluginSys 2017.12.20\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.25\PluginSys 2017.12.25\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\COM.Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\Excel.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\log4net.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\OpenSmtp.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\bin\Debug\OWC10Chart.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\obj\Debug\PluginSys.Common.dll
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\obj\Debug\PluginSys.Common.pdb
+C:\Users\680759\Desktop\软件平台发布\PluginSys 2017.12.26\PluginSys 2017.12.26\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
